@@ -42,7 +42,7 @@ VERSION NOT_RELEASE_YET  -  YYYY-MM-DD
 
 ### Features
 
-- None
+- LGFS-2: Add spaceship falcon
 
 
 ### Tech. Changes
