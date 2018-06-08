@@ -43,6 +43,7 @@ VERSION NOT_RELEASE_YET  -  YYYY-MM-DD
 ### Features
 
 - LGFS-2: Add spaceship falcon
+- LGFS-3: Add spaceship Death Star
 
 
 ### Tech. Changes
