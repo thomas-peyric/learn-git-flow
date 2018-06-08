@@ -44,6 +44,7 @@ VERSION NOT_RELEASE_YET  -  YYYY-MM-DD
 
 - LGFS-2: Add spaceship falcon
 - LGFS-3: Add spaceship Death Star
+- LGFS-4: Update CHANGELOG
 
 
 ### Tech. Changes
